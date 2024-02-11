@@ -31,6 +31,8 @@
 ```bash
 $ npm install 
 $ npm run migration:generate
+
+Create a ENV file same as env copy
 ```
 
 ## Running the app
